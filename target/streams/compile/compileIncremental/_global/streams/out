@@ -1,0 +1,32 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 4 products, 3 sources, 1 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/Bibliotheque.scala, ${BASE}/src/main/scala/Interaction.scala, ${BASE}/src/main/scala/Livre.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/src/main/scala/Bibliotheque.scala, ${BASE}/src/main/scala/Interaction.scala, ${BASE}/src/main/scala/Livre.scala), unmodified = ...),Set(${BASE}/target/scala-2.13/classes/Bibliotheque.class, ${BASE}/target/scala-2.13/classes/Interaction$.class, ${BASE}/target/scala-2.13/classes/Interaction.class, ${BASE}/target/scala-2.13/classes/Livre.class),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(${BASE}/src/main/scala/Bibliotheque.scala, ${BASE}/src/main/scala/Interaction.scala, ${BASE}/src/main/scala/Livre.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(${BASE}/target/scala-2.13/classes/Bibliotheque.class, ${BASE}/target/scala-2.13/classes/Interaction$.class, ${BASE}/target/scala-2.13/classes/Interaction.class, ${BASE}/target/scala-2.13/classes/Livre.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(Bibliotheque, Interaction, Livre)[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(${BASE}/src/main/scala/Bibliotheque.scala, ${BASE}/src/main/scala/Interaction.scala, ${BASE}/src/main/scala/Livre.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mall 3 sources are invalidated[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Bibliotheque, Interaction, Livre[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0 percent of all sources[0m
+[0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 3 Scala sources to C:\Users\ADMIN\IdeaProjects\Projet biblio\target\scala-2.13\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mReturning already retrieved and compiled bridge: C:\Users\ADMIN\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala2-sbt-bridge\2.13.12\scala2-sbt-bridge-2.13.12.jar.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 70a488d4 for Scala compiler version 2.13.12[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\ADMIN\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.12\scala-library-2.13.12.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\ADMIN\IdeaProjects\Projet biblio\target\scala-2.13\classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 3.6693526 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m

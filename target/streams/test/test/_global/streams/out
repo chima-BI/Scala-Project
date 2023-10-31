@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(LivreTest, org.scalatest.tools.Framework$$anon$1@6e1339ab, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLivreTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLivre[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should être emprunté avec succès[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should gérer l'emprunt d'un livre déjà emprunté[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should être rendu avec succès[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should gérer le retour d'un livre non emprunté[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 second, 556 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LivreTest[0m
